@@ -1,5 +1,5 @@
 const baseURL = 'https://api.github.com';
-const user = '<theouternet>';
+const user = 'theouternet';
 
 function getToken() {
   //change to your token to run in browser, but set
