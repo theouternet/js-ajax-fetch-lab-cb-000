@@ -30,6 +30,11 @@ function forkRepo() {
 
 function showResults(json) {
   //use this function to display the results from forking via the API
+  
+   let link = json.git_url;
+  results.append(link)
+
+  
 }
 
 function createIssue() {
