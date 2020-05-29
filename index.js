@@ -25,6 +25,9 @@ function forkRepo() {
   
 }
 
+
+ let results = document.getElementById('results'); 
+
 function showResults(json) {
   //use this function to display the results from forking via the API
 }
