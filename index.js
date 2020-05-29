@@ -4,7 +4,7 @@ const user = '<theouternet>';
 function getToken() {
   //change to your token to run in browser, but set
   //back to '' before committing so all tests pass
-  return '8e52ba79d99a414b8d61';
+  return '';
 }
 
 function forkRepo() {
